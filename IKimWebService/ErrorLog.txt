@@ -1,0 +1,38 @@
+27-03-2026 12:35:50: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+27-03-2026 12:36:05: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+27-03-2026 13:03:15: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+27-03-2026 13:03:24: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 11:56:47: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 15:48:20: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 15:48:21: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 15:48:23: Attempt 3 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 15:48:41: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 15:48:42: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+30-03-2026 15:48:44: Attempt 3 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 12:00:18: Attempt 1 failed - Syntax error, command unrecognized. The server response was: ROpIwCva0pR74ROpNwS4mb User social@shastrasoft.net has been restricted.
+25-05-2026 12:03:51: Attempt 1 failed - Syntax error, command unrecognized. The server response was: ROskw8szYYR1oROsowchd0 User social@shastrasoft.net has been restricted.
+25-05-2026 12:04:36: Attempt 1 failed - Syntax error, command unrecognized. The server response was: ROspw3NQ6qkt2ROtXwgf8j User social@shastrasoft.net has been restricted.
+25-05-2026 19:52:58: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 19:52:59: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 19:53:01: Attempt 3 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 19:57:48: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 19:57:49: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 19:57:51: Attempt 3 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 20:00:29: Attempt 1 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 20:02:01: Attempt 2 failed - The specified string is not in the form required for an e-mail address.
+25-05-2026 20:02:03: Attempt 3 failed - The specified string is not in the form required for an e-mail address.
+02-06-2026 14:01:48: Attempt 1 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:01:53: Attempt 2 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:02:00: Attempt 3 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:11:52: Attempt 1 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:11:57: Attempt 2 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:12:04: Attempt 3 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:13:33: Attempt 1 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:13:38: Attempt 2 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:13:44: Attempt 3 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:22:58: Attempt 1 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:23:04: Attempt 2 failed - The server committed a protocol violation The server response was: 
+02-06-2026 14:23:11: Attempt 3 failed - The server committed a protocol violation The server response was: 
+16-07-2026 11:29:04: Attempt 1 failed - The server committed a protocol violation The server response was: 
+16-07-2026 11:29:09: Attempt 2 failed - The server committed a protocol violation The server response was: 
+16-07-2026 11:29:16: Attempt 3 failed - Failure sending mail.

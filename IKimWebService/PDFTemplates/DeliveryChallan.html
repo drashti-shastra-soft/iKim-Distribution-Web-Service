@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Delivery Challan</title>
+    <style>
+        @page {
+            size: 210mm 148mm;
+            margin: 1mm;
+        }
+        .item-hindi {
+            font-family: 'Mangal', 'Nirmala UI', sans-serif;
+        }
+    </style>
+</head>
+<body style="margin:0; font-family:Arial; font-size:10px; width:210mm;">
+    <div style="padding:10px; box-sizing:border-box;">
+        <div style="text-align:center; font-size:16px;">
+            <b>Delivery Challan</b>
+        </div>
+
+        <table style="width:100%;">
+            <tr>
+                <td><b>Shop Name: </b>{{StoreName}}, {{Address}}</td>
+                <td style="text-align:center">{{PhoneNumber}}</td>
+                <td style="text-align:right">{{GeneratedDate}}</td>
+            </tr>
+        </table>
+
+        <table style="width:100%; border-collapse:collapse; border:1px solid #000; font-size:9px;">
+            <thead>
+                <tr style="background:#fff; color:#000; font-weight:bold;">
+                    <th style="border:1px solid #000;">Item</th>
+                    <th style="border:1px solid #000;">Requested</th>
+                    <th style="border:1px solid #000;">Fulfilment</th>
+                    <th style="border:1px solid #000;">Rate</th>
+                    <th style="border:1px solid #000;">Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{LineItems}}
+                <tr>
+                    <td colspan="5" style="padding:1px;">
+                        <table style="width:100%; border-collapse:collapse;">
+                            <tr style="font-weight:bold;">
+                                <td style="width:85%; text-align:left">Amount</td>
+                                <td style="width:15%; text-align:right;">{{Amount}}</td>
+                            </tr>
+                            <tr style="font-weight:bold;">
+                                <td style="border-top:1px solid #000; text-align:left">GST (5%)</td>
+                                <td style="border-top:1px solid #000; text-align:right;">{{GST5}}</td>
+                            </tr>
+                            <tr style="font-weight:bold;">
+                                <td style="border-top:1px solid #000; text-align:left">GST (18%)</td>
+                                <td style="border-top:1px solid #000; text-align:right;">{{GST18}}</td>
+                            </tr>
+                            <tr style="border-top:1px solid #000; background:#fff; color:#000; font-weight:bold;">
+                                <td>TOTAL</td>
+                                <td style="text-align:right;">{{Total}}</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
